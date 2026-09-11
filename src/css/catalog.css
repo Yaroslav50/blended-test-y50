@@ -1,1 +1,62 @@
 /* Сюди додавай стилі частинки Catalog */
+.catalog {
+}
+.catalog-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fbfbfb;
+}
+.section-title {
+}
+.catalog-list {
+}
+.catalog-item {
+  background: #fbfbfb;
+}
+.catalog-item-ill {
+}
+.catalog-item-name {
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: #1b414b;
+}
+.catalog-item-type {
+  font-size: 13px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #989899;
+}
+
+.catalog-item-prop {
+  font-size: 14px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+}
+
+.catalog-item-prop dt {
+  text-transform: uppercase;
+  color: #989899;
+}
+
+.catalog-item-prop dd {
+  color: #040306;
+}
+
+.btn {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: inherit;
+}
+
+.btn-outlined {
+  background-color: transparent;
+  color: #fbfbfb;
+}
