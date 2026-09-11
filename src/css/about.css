@@ -1,1 +1,38 @@
 /* Сюди додавай стилі частинки About */
+.sr-only {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  margin: -1px;
+}
+
+.about {
+}
+.about-title {
+}
+.about-list {
+  background: #1b414b;
+}
+.about-item {
+}
+.about-item-num {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+.about-item-text {
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #b4b7ba;
+}
+
+.about-ill {
+}
