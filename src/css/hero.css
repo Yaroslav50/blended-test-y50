@@ -1,1 +1,39 @@
 /* Сюди додавай стилі частинки Hero */
+.hero {
+}
+
+.section {
+}
+
+.hero-title {
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.hero-desc {
+  font-weight: 300;
+  line-height: 1.4;
+  text-align: center;
+  color: #b4b7ba;
+}
+
+.btn {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: inherit;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #fbfbfb;
+  color: #1b414b;
+}
+
+.btn-filled {
+  background-color: #1b414b;
+}
